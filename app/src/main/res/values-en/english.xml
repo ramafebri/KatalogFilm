@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_home">Home</string>
+
+    <string name="menu1">Movies</string>
+    <string name="menu_2">Tv Shows</string>
+
+    <string name="title_menu_movies">Movies</string>
+    <string name="title_menu_tvshow">TV Show</string>
+
+    <string name="image_poster">Image Poster</string>
+    <!--<string name="user_score">87%</string>-->
+    <!--<string name="runtime">1h 45m</string>-->
+    <string name="title">Title</string>
+    <!--<string name="status_detail">Released</string>-->
+    <string name="first_line">first_line</string>
+    <string name="second_line">second_line</string>
+    <string name="languange">English</string>
+    <string name="detail_overview">Detail Overview</string>
+    <string name="change_language_settings">Language Configuration</string>
+</resources>
